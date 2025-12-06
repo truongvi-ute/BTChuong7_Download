@@ -18,28 +18,28 @@
             <c:when test="${productCode == '8601'}">
                 <h3>86 (the band) - True Life Songs and Pictures</h3>
                 <p>
-                    <a href="sound/8601.mp3">Download (8601.mp3)</a>
+                    <a href="complete.jsp">Download (8601.mp3)</a>
                 </p>
             </c:when>
             
             <c:when test="${productCode == 'pf01'}">
                 <h3>Paddlefoot - The first CD</h3>
                 <p>
-                    <a href="sound/pf01.mp3">Download (pf01.mp3)</a>
+                    <a href="complete.jsp">Download (pf01.mp3)</a>
                 </p>
             </c:when>
             
             <c:when test="${productCode == 'pf02'}">
                 <h3>Paddlefoot - The second CD</h3>
                 <p>
-                    <a href="sound/pf02.mp3">Download (pf02.mp3)</a>
+                    <a href="complete.jsp">Download (pf02.mp3)</a>
                 </p>
             </c:when>
             
             <c:when test="${productCode == 'jr01'}">
                 <h3>Joe Rut - Genuine Wood Grained Finish</h3>
                 <p>
-                    <a href="sound/jr01.mp3">Download (jr01.mp3)</a>
+                    <a href="complete.jsp">Download (jr01.mp3)</a>
                 </p>
             </c:when>
                 
